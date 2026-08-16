@@ -20,4 +20,4 @@ vless://305e7a13-2518-42b2-b0b2-b214c681451b@ipw.ygdfw.com:8443?encryption=none&
 vless://305e7a13-2518-42b2-b0b2-b214c681451b@k7.lordmakuboutiqu.site:42543?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20turkey
 vless://26ecda36-0c0b-4a7d-8b2f-f89a0cabc4de@fardad-no.football-player.ir:6800?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B4%F0%9D%90%8D%F0%9D%90%8E
 vless://26ecda36-0c0b-4a7d-8b2f-f89a0cabc4de@fardad-it.safire-soleiman.ir:6800?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%F0%9D%90%88%F0%9D%90%93
-
+vless://26ecda36-0c0b-4a7d-8b2f-f89a0cabc4de@fardad-fr.safire-soleiman.ir:6800?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%F0%9D%90%85%F0%9D%90%91
