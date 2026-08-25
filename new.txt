@@ -1,4 +1,3 @@
-
 vless://305e7a13-2518-42b2-b0b2-b214c681451b@d.e.hashemgodserv.ir:8880?encryption=none&security=none&type=httpupgrade&host=d.e.hashemgodserv.ir&path=%2Fws%3Fed%3D2560#1%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20VN2
 vless://305e7a13-2518-42b2-b0b2-b214c681451b@nl.nadigodserv.ir:17987?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=0FAZIJSJAjWMz7ty6XLjTkK8oGHbMQgR1c-yBJMHAwc&sid=d29ea7afd319b270&type=tcp&headerType=none#1%20%F0%9F%87%B3%F0%9F%87%B1%20Netherland-tunnel
 vless://305e7a13-2518-42b2-b0b2-b214c681451b@gr.capitan.foootbali19.ir:31352?encryption=none&security=reality&sni=is3-ssl.mzstatic.com&fp=chrome&pbk=GTC_MnVBnStUJmo65qm86xCpQPIjGyZBANs0V1gVE0U&sid=ea0e439f23ad5c50&type=tcp&headerType=none&host=cdn-apple.com#1%20%F0%9F%87%A9%F0%9F%87%AA%20Germany-hamrah
@@ -11,8 +10,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3TE4tMGtpbi10T3FiV0VRVEtmSmp4c1c2WDFyb2hHaQ@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3TE4tMGtpbi10T3FiV0VRVEtmSmp4c1c2WDFyb2hHaQ@poland.capigodv.ir:24991?#1%20%F0%9F%87%B5%F0%9F%87%B1%20poland
 vless://305e7a13-2518-42b2-b0b2-b214c681451b@poland.hashemgodserv.ir:8880?encryption=none&security=none&type=httpupgrade&host=poland.hashemgodserv.ir&path=%2Fws%3Fed%3D2560#1%20%F0%9F%87%B5%F0%9F%87%B1%20poland2
 vless://305e7a13-2518-42b2-b0b2-b214c681451b@gr.capitan.foootbali19.ir:31352?encryption=none&security=reality&sni=is2-ssl.mzstatic.com&fp=chrome&pbk=GTC_MnVBnStUJmo65qm86xCpQPIjGyZBANs0V1gVE0U&sid=ea0e439f23ad5c50&type=tcp&headerType=none&host=cdn-apple.com#1%20%F0%9F%87%A9%F0%9F%87%AA%20Germany-hamrah
-
-
 vless://8d8263dd-39e1-4fc8-9ca7-a50433280918@cd.land4k.com:443?encryption=none&security=tls&sni=qrc.nimstream.ir&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=qrc.nimstream.ir&path=%2Fwss%3Fed%3D2048#2%20%E2%9C%85%20%7C%20%F0%9F%94%8B%203.13%20GB%2F25.0%20GB%20%7C%20%F0%9F%93%85%2023
 vless://8d8263dd-39e1-4fc8-9ca7-a50433280918@d350ccc78zsbd7.cloudfront.net:443?encryption=none&security=tls&sni=d350ccc78zsbd7.cloudfront.net&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=d1jbbel64p0dmg.cloudfront.net&path=%2Fwss%3Fed%3D2048#2%20%E2%9A%A0%EF%B8%8F%20%D9%87%D8%B1%D8%B1%D9%88%D8%B2%20%D9%82%D8%A8%D9%84%20%D8%A7%D8%B2%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%20%DA%A9%D9%86%DB%8C%D8%AF%20%E2%9A%A0%EF%B8%8F
 vless://8d8263dd-39e1-4fc8-9ca7-a50433280918@d3uz87zbjl8qio.cloudfront.net:443?encryption=none&security=tls&sni=d3uz87zbjl8qio.cloudfront.net&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=d3uz87zbjl8qio.cloudfront.net&path=%2Fwss%3Fed%3D2048#2%20POC_%F0%9F%87%AB%F0%9F%87%B7_FR
@@ -23,7 +20,5 @@ vless://8d8263dd-39e1-4fc8-9ca7-a50433280918@d3uz87zbjl8qio.cloudfront.net:443?e
 vless://8d8263dd-39e1-4fc8-9ca7-a50433280918@dndpovnxyj66y.cloudfront.net:443?encryption=none&security=tls&sni=dndpovnxyj66y.cloudfront.net&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=dndpovnxyj66y.cloudfront.net&path=%2Fwss%3Fed%3D2048#2%20POC_%F0%9F%87%BA%F0%9F%87%B8_US
 vless://8d8263dd-39e1-4fc8-9ca7-a50433280918@2.188.251.19:8001?encryption=none&security=reality&sni=www.zoomit.ir&fp=chrome&pbk=GNDy-AQmkclt7lVvolwuKyKVk3q7tbcwf8wkG37w2GU&sid=036916738ef79b11&type=tcp&headerType=none#2%20POC_Main-2
 vless://8d8263dd-39e1-4fc8-9ca7-a50433280918@d2mya3q9cxqi1d.cloudfront.net:443?encryption=none&security=tls&sni=d2mya3q9cxqi1d.cloudfront.net&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=d2mya3q9cxqi1d.cloudfront.net&path=%2Fwss%3Fed%3D2048#2%20POC_%F0%9F%87%A8%F0%9F%87%A6_CA
-
-
 vless://26ecda36-0c0b-4a7d-8b2f-f89a0cabc4de@fardad-de.sanzivo.ir:6800?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#3%20%F0%9F%87%A9%F0%9F%87%AA%F0%9D%90%83%F0%9D%90%84
 vless://26ecda36-0c0b-4a7d-8b2f-f89a0cabc4de@ip1.berzema.ir:6811?encryption=none&security=reality&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&headerType=none#3%20%F0%9F%86%83%F0%9F%86%84%F0%9F%85%BD%20%F0%9F%87%AC%F0%9F%87%A7
